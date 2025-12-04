@@ -22,4 +22,5 @@ Semana 14 | Lista de asistencia final
 11. Katherine Canales
 12. Eddie Mora
 13. Wilmer Rodríguez
-14. Abigail Usuga 
+14. Abigail Usuga
+15. Jokser Salazar
