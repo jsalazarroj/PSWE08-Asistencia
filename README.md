@@ -9,4 +9,6 @@ Semana 14 | Lista de asistencia final
 
 
 1. Diego Cabezas
-2. Angelo Escalante
+
+
+#. Jokser Salazar
